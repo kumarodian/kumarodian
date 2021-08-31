@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumarodian
 - 👀 I’m interested in UI Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular, React
 - 💞️ I’m looking to collaborate on Projects which use HTML and JavaScript/JQuery
 - 📫 How to reach me sachinyadav607@gmail.com
 
